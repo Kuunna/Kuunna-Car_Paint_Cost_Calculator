@@ -31,4 +31,4 @@ if part in part_coefficients and color in color_coefficients:
     print(f"The cost to paint the {part} with {color} color: {total_cost} RUB")
 else:
     print("Invalid car part or color. Please try again.")
-print("Thank you! See you again!")
+#print("Thank you! See you again!")
