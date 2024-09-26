@@ -32,4 +32,4 @@ if part in part_coefficients and color in color_coefficients:
 else:
     print("Invalid car part or color. Please try again.")
 
-# print("Thank you! See you again!")
+print("Thank you! See you again!")
